@@ -1,0 +1,17 @@
+body{
+    margin-bottom: 100px;
+}
+#container-footer {
+  width: 100%;
+  position: fixed;
+}
+#content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.col-image{
+    width: 800px;
+    height: 600px;
+}
